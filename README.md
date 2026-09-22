@@ -1,28 +1,109 @@
-# 💫 About Me:
-👋🏻 I'm Md Farhan Habib
+<div align="center">
 
+# 👋 Hey, I'm Farhan Habib
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/04__farhan__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhan-habib-345143254/) 
+### `Full-Stack Developer in Progress ⚡`
 
+**BUILD • LEARN • SHIP**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-Farhan043-181717?style=for-the-badge&logo=github)](https://github.com/Farhan043)
 
-# 📊 GitHub Stats:
-<img align = "right" alt="coding" width="300px" height="300px"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> <br/>
-![](https://github-readme-stats.vercel.app/api?username=Farhan043&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Farhan043&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan043&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Farhan043&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Farhan043&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Farhan043&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧑‍💻 About Me
+
+I'm **Farhan Habib**, a developer focused on building real-world applications and continuously improving my development and problem-solving skills.
+
+I enjoy turning ideas into working products, exploring new technologies, and learning by building.
+
+```text
+💻 Full-Stack Development
+🧠 Problem Solving & DSA
+🚀 Building Real-World Projects
+📚 Continuous Learning
+⚡ Currently Exploring
+🌐 Full-Stack Web Development
+⚛️ React & Modern Frontend Development
+🟢 Node.js & Express.js
+🗄️ MongoDB & SQL
+🐍 Python
+⚙️ C++ & DSA
+🤖 AI-powered applications
+🛠️ Tech Stack
+👨‍💻 Programming Languages
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+🌐 Frontend
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p>
+⚙️ Backend
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </p>
+🗄️ Database
+<p> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+🔧 Tools
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> </p>
+🚀 Featured Projects
+🧬 ZenFitAnalyzer
+
+A full-stack health and fitness tracking application built with React and Express.js.
+
+Focus: Full-Stack Development • React • Express.js • User Experience
+
+⚡ MERN DevBoost
+
+A developer-focused project designed to simplify MERN development with reusable resources and ready-to-use snippets.
+
+Focus: MERN Stack • JavaScript • Developer Productivity
+
+🍴 Zomato Backend
+
+Backend project for a food/recipe-related application with server-side functionality and APIs.
+
+Focus: Backend Development • JavaScript • APIs
+
+🧠 Learn DSA With C++
+
+A beginner-friendly DSA learning repository covering fundamental data structures and algorithms with practical C++ examples.
+
+Focus: C++ • DSA • Problem Solving
+
+💬 Anonymous Feedback Platform
+
+A platform designed for collecting and analyzing feedback while keeping the feedback process anonymous.
+
+Focus: JavaScript • Web Development
+
+📊 GitHub Statistics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Farhan043&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan043&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Farhan043&theme=tokyonight&hide_border=true"/> </div>
+🎯 2026 Goals
+✓ Build real-world projects
+✓ Improve Full-Stack development
+→ Strengthen DSA & problem solving
+→ Build AI-powered applications
+→ Improve backend architecture
+→ Contribute to open source
+→ Build a strong developer portfolio
+🧠 Development Philosophy
+<div align="center">
+LEARN → BUILD → BREAK → FIX → REPEAT
+
+Every project is another step forward.
+
+</div>
+🤝 Let's Connect
+<div align="center">
+
+I'm always interested in learning, building and collaborating on interesting technology projects.
+
+<br>
+Building today. Becoming better tomorrow. 🚀
+</div>
+<div align="center">
+
+⭐ If you find something useful here, consider starring the repository.
+
+© 2026 Farhan Habib
+
+</div> ```
